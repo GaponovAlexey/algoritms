@@ -14,8 +14,8 @@ const bubbleSort = (arr, n) => {
     }
   }
 }
-const n = array.length
+
 console.log(array)
-console.log(bubbleSort(array, n))
+bubbleSort(array, array.length)
 console.log(array)
 
