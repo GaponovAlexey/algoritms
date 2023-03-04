@@ -17,17 +17,17 @@ int main() {
     int arr[] = {4, 5, 4, 3, 2, 1, 0, 8};
     int n = sizeof(arr)/sizeof(arr[0]);
 
-    cout << "Array before sorting: ";
+    cout << Array before sorting: ;
     for(int i = 0; i < n; i++) {
-        cout << arr[i] << " ";
+        cout << arr[i] <<  ;
     }
     cout << endl;
 
     bubbleSort(arr, n);
 
-    cout << "Array after sorting: ";
+    cout << Array after sorting: ;
     for(int i = 0; i < n; i++) {
-        cout << arr[i] << " ";
+        cout << arr[i] <<  ;
     }
     cout << endl;
 

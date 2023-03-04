@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import fmt
 
 func main() {
 	arr := []int{0, 5, 6, 7, 2, 3, 2, 6, 8, 22, 55, 44, 77, 1, 2, 77, 88, 2, 7, 9}
