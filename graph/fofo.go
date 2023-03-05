@@ -17,7 +17,7 @@ func breadthSearch(graph map[string][]string, start, end string) bool {
 		}
 	}
 	return false
-}
+
 
 func contains(slice []string, element string) bool {
 	for _, item := range slice {
