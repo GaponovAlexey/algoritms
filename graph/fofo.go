@@ -28,7 +28,7 @@ func contains(slice []string, element string) bool {
 	}
 	return false
 }
-
+}
 func main() {
 	graph := make(map[string][]string)
 	graph[a] = []string{b, c}
