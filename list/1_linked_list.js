@@ -45,4 +45,4 @@ list.add(5)
 list.add(5)
 list.add(5)
 list.add(3)
-list.print()
+list.print
