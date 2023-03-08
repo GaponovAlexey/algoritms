@@ -11,5 +11,5 @@ const findIndex = (a, f) => {
   return nul
 }
 
-console.log(findIndex(array, 11))
+console.log(findIndex(array, 5))
 console.log(count) 
